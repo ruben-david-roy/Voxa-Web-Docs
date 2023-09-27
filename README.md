@@ -1,8 +1,8 @@
-# Voxa Web Translation API
+# 🌐 Voxa Web Translation API
 
-Welcome to the Voxa Translation API! Easily translate text between different languages using a simple HTTP request.
+Welcome to the Voxa Web Translation API! 🚀 Easily translate text between different languages using a simple HTTP request.
 
-## Table of Contents
+## 📌 Table of Contents
 
 - [Endpoint](#endpoint)
 - [Parameters](#parameters)
@@ -10,13 +10,13 @@ Welcome to the Voxa Translation API! Easily translate text between different lan
 - [Example](#example)
 - [Support & Feedback](#support--feedback)
 
-## Endpoint
+## 🎯 Endpoint
 
 ```
 https://voxa.dark9015.repl.co/api
 ```
 
-## Parameters
+## 📝 Parameters
 
 | Parameter   | Description                                                   | Example |
 |-------------|---------------------------------------------------------------|---------|
@@ -24,9 +24,9 @@ https://voxa.dark9015.repl.co/api
 | `from`      | The original language of the text (ISO 639-1 code).           | en      |
 | `to`        | The target language to which you want the text translated (ISO 639-1 code). | fr |
 
-**Note**: Ensure all parameters are URL encoded to handle special characters and spaces.
+**Note**: ⚠️ Ensure all parameters are URL encoded to handle special characters and spaces.
 
-## Response Format
+## 📦 Response Format
 
 The API returns a JSON object containing the following fields:
 
@@ -37,7 +37,7 @@ The API returns a JSON object containing the following fields:
 | `from`      | The original language of the text.         |
 | `to`        | The language to which the text was translated. |
 
-## Example
+## 📖 Example
 
 **Request**:
 ```
