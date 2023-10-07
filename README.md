@@ -39,7 +39,7 @@ The API returns a JSON object containing the following fields:
 
 ## 📖 Example
 
-**Request**:
+**Example Request**:
 ```
 https://voxa.dark9015.repl.co/api?translate=Hello&from=en&to=fr
 ```
