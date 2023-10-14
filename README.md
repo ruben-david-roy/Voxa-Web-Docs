@@ -1,3 +1,5 @@
+# 🌐 Voxa
+
 Welcome to the Voxa Web Translation API! 🚀 Easily translate text between different languages using a simple HTTP request.
 
 ## 📌 Table of Contents
