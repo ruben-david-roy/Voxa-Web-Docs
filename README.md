@@ -1,6 +1,6 @@
 # 🌐 Voxa Translation API
 
-Welcome to the Voxa Web Translation API! 🚀 Easily translate text between different languages using a simple HTTP request.
+Welcome to the Voxa Web Translation API! Easily translate text between different languages using a simple HTTP request.
 
 ## 📌 Table of Contents
 
@@ -53,5 +53,3 @@ https://voxa.dark9015.repl.co/api?translate=Hello&from=en&to=fr
     "to": "fr"
 }
 ```
-
-Happy Translating! 🌍
