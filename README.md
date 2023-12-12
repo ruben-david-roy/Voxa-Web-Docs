@@ -13,7 +13,7 @@ Welcome to the Voxa Web Translation API! Easily translate text between different
 ## 🎯 Endpoint
 
 ```
-https://voxa.dark9015.repl.co/api
+https://voxa-translate.replit.app/api
 ```
 
 ## 📝 Parameters
@@ -41,7 +41,7 @@ The API returns a JSON object containing the following fields:
 
 **Example Request**:
 ```
-https://voxa.dark9015.repl.co/api?translate=Hello&from=en&to=fr
+https://voxa-translate.replit.app/api?translate=Hello&from=en&to=fr
 ```
 
 **Response**:
